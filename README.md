@@ -26,4 +26,4 @@ This project showcases the use of **components, props, and reusable layouts** in
 - **Sydney Opera House, Australia**  
 - **Geirangerfjord, Norway**
 
-![Preview Screenshot](/image.png)  
+![Preview Screenshot](/public/image.png)  
