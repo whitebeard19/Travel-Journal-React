@@ -1,12 +1,29 @@
-# React + Vite
+# 🌍 Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple travel journal app built while learning **React**.  
+This project showcases the use of **components, props, and reusable layouts** in React by creating a digital journal of travel destinations.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🖼️ Displays travel destinations with images  
+- 📍 Shows location with country and Google Maps link  
+- 📅 Travel dates for each trip  
+- 📖 Short description of each place  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+- **React** – Frontend framework  
+- **CSS** – Styling and layout  
+- **Props** – Passing dynamic data to components  
+
+---
+
+## 📸 Preview
+### Example Entries:
+- **Mount Fuji, Japan**  
+- **Sydney Opera House, Australia**  
+- **Geirangerfjord, Norway**
+
+![Preview Screenshot](./image.png)  
